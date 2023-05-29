@@ -7,7 +7,7 @@
 
 ## Features Server 
 <br>
-<a href="">klik di sini untuk membacanya</a>
+<a href="https://github.com/AbdulJabarID/Zero-Craft-SMP/blob/main/Features-Server.md">klik di sini untuk membacanya</a>
 <br>
 
 ## Rules Group 
